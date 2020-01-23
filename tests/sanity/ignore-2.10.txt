@@ -1,0 +1,4 @@
+plugins/modules/emc_vnx_sg_member.py validate-modules:doc-missing-type
+plugins/modules/emc_vnx_sg_member.py validate-modules:parameter-type-not-in-doc
+plugins/doc_fragments/emc.py future-import-boilerplate
+plugins/doc_fragments/emc.py metaclass-boilerplate
